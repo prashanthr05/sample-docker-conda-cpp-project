@@ -1,6 +1,6 @@
 ## Hello World Cpp with Docker and Conda
 
-A template repository for Docker and Conda based C++ Projects.
+A template repository for Docker and Conda based C++ Projects with a DevSecOps mindset.
 
 
 ### Building the docker image
