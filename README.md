@@ -34,11 +34,6 @@ cmake ..
 make
 ```
 
-### Current Issues
-
-- [ ] Running cmake causes linking error unable to find gcc on Ubuntu 22.04
-
-
 
 ### Possible Improvements
 
