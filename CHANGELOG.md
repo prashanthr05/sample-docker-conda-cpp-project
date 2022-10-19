@@ -11,7 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - Fixed cleaning up static libraries in the mamba virtual environment causing linking errors during compilation (https://github.com/prashanthr05/sample-docker-conda-cpp-project/pull/2)
-
+- Remove redundant packages for C++ build chain (https://github.com/prashanthr05/sample-docker-conda-cpp-project/pull/3)
 
 ### Removed
 

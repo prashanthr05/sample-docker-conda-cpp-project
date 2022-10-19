@@ -4,9 +4,9 @@ channels:
 dependencies:
   - cmake
   - compilers
-  - c-compiler
-  - cxx-compiler
   - make
   - ninja
   - pkg-config
   - python=3.9
+# Add project dependencies below
+# in an alphabetical order
