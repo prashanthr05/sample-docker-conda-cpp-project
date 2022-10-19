@@ -1,0 +1,12 @@
+channels:
+  - conda-forge
+
+dependencies:
+  - cmake
+  - compilers
+  - c-compiler
+  - cxx-compiler
+  - make
+  - ninja
+  - pkg-config
+  - python=3.9
